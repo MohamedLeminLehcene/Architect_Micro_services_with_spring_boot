@@ -60,3 +60,14 @@
 <img src="pictures/Question8/img09.png">
 <img src="pictures/Question8/img10.png">
 <img src="pictures/Question8/img11.png">
+
+
+<img src="pictures/Question9_10/img01.png">
+<img src="pictures/Question9_10/img02.png">
+<img src="pictures/Question9_10/img03.png">
+<img src="pictures/Question9_10/img04.png">
+<img src="pictures/Question9_10/img05.png">
+<img src="pictures/Question9_10/img06.png">
+<img src="pictures/Question9_10/img07.png">
+<img src="pictures/Question9_10/img08.png">
+<img src="pictures/Question9_10/img09.png">
