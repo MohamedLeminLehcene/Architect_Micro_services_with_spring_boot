@@ -46,3 +46,17 @@
 <img src="pictures/Question7/img20.png">
 <img src="pictures/Question7/img21.png">
 <img src="pictures/Question7/img22.png">
+
+
+
+<img src="pictures/Question8/img01.png">
+<img src="pictures/Question8/img02.png">
+<img src="pictures/Question8/img03.png">
+<img src="pictures/Question8/img04.png">
+<img src="pictures/Question8/img05.png">
+<img src="pictures/Question8/img06.png">
+<img src="pictures/Question8/img07.png">
+<img src="pictures/Question8/img08.png">
+<img src="pictures/Question8/img09.png">
+<img src="pictures/Question8/img10.png">
+<img src="pictures/Question8/img11.png">
