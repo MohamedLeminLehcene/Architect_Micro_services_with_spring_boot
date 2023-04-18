@@ -71,3 +71,21 @@
 <img src="pictures/Question9_10/img07.png">
 <img src="pictures/Question9_10/img08.png">
 <img src="pictures/Question9_10/img09.png">
+
+
+<img src="pictures/Quest11/img01.png">
+<img src="pictures/Quest11/img02.png">
+<img src="pictures/Quest11/img03.png">
+<img src="pictures/Quest11/img04.png">
+<img src="pictures/Quest11/img05.png">
+<img src="pictures/Quest11/img06.png">
+<img src="pictures/Quest11/img07.png">
+<img src="pictures/Quest11/img08.png">
+<img src="pictures/Quest11/img09.png">
+<img src="pictures/Quest11/img10.png">
+<img src="pictures/Quest11/img11.png">
+<img src="pictures/Quest11/img12.png">
+<img src="pictures/Quest11/img13.png">
+<img src="pictures/Quest11/img14.png">
+<img src="pictures/Quest11/img15.png">
+<img src="pictures/Quest11/img16.png">
