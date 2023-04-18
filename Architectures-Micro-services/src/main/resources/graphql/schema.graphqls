@@ -1,0 +1,32 @@
+type Query{
+    comptesList : [CompteServiceDTOResponse],
+    compteById (id:String) : CompteServiceDTOResponse,
+    clientList:[ClientServiceResponse]
+}
+
+type Mutation{
+     addCompte(compteServiceDTO:CompteServiceDTO):CompteServiceDTOResponse,
+    updateCompte(id:String,compteServiceDTO:CompteServiceDTO):CompteServiceDTOResponse,
+    deleteCompte(id:String):Boolean
+}
+
+type ClientServiceResponse{
+    id:String,
+    name:String,
+    compteList :[CompteServiceDTOResponse]
+}
+
+type CompteServiceDTOResponse{
+    id : String,
+    solde : String,
+    dateCreation : String,
+    type : String,
+    client:ClientServiceResponse
+}
+
+input CompteServiceDTO{
+    solde : Float,
+    type : String
+}
+
+
